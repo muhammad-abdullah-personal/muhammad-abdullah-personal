@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Muhammad Abdullah
+- 👀 I’m interested in .net development and Datascience and BI.
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on new technologies like angular.
+- 📫 Reach me at muhammad.abdullah5678@gmail.com
